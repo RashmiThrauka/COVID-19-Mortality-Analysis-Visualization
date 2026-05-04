@@ -33,7 +33,3 @@ and vaccine access were far more significant.
 
 ## Tools
 Power BI · Power Query · DAX
-
-## Author
-**Rashmi Tharuka** · BSc Business Data Analysis, University of Westminster  
-[LinkedIn](https://www.linkedin.com/in/rashmi-tharuka-765439361) · [GitHub](https://github.com/RashmiThrauka)
